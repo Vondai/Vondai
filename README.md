@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript, Nextjs, Prisma, Relational Dbs, Docker**
 
-- 📫 How to reach me **vondai123@gmail.com**
+- 📫 How to reach me **stas.penev01@gmail.com**
 
 - ⚡ Fun fact **Strangers think I`m scary.**
 
